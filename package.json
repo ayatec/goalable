@@ -1,0 +1,24 @@
+{
+  "name": "goasible",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "repository": "https://github.com/ayatec/goasible.git",
+  "author": "ayatec <aya@ayatec.jp>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-app": "^3.1.2",
+    "parcel-bundler": "^1.10.3",
+    "react-hot-loader": "^4.3.11",
+    "sass": "^1.14.3"
+  }
+}
